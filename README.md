@@ -8,5 +8,5 @@
 ![](https://readme-stats-rho-murex.vercel.app/api/top-langs?username=Oshinobi-obi&theme=graywhite&hide_border=true&custom_title=Oshinobi-obi\[fav-lang\]&border_radius=15&card_width=500)
 </div>
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=Oshinobi-obi&theme=minimal&line=5D5D5D&point=000000&custom_title=contribution+graph&radius=16&width=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Oshinobi-obi&theme=minimal&line=5D5D5D&point=000000&custom_title=contribution+graph&radius=16&width=300)
 </div>
