@@ -100,7 +100,7 @@
 
 ---
 
-### 🧩 Fun Corner (Optional)
+### 🧩 Fun Corner
 <details>
 <summary>Random Dev Quote</summary>
 
