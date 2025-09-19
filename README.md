@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Tech Arsenal (Curate Your Core Stack)
+### 🛠️ Tech Stacks
 <p>
   <strong>Languages:</strong>
   <img alt="JavaScript" src="https://img.shields.io/badge/JS-323330?logo=javascript&logoColor=F7DF1E">
