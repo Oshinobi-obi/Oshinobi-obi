@@ -63,23 +63,43 @@
 
 ### 📊 Metrics & Activity
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Oshinobi-obi&theme=dark&hide_border=true&border_radius=20&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Oshinobi-obi&theme=default&hide_border=true&border_radius=20&ring=5094F0&fire=FF6B35&currStreakLabel=5094F0"/>
+</picture>
+<br/>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Oshinobi-obi&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&include_all_commits=true&custom_title=📈%20GitHub%20Stats&border_radius=15&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Oshinobi-obi&show_icons=true&theme=default&rank_icon=github&hide_border=true&include_all_commits=true&custom_title=📈%20GitHub%20Stats&border_radius=15&title_color=2F80ED&icon_color=2F80ED"/>
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Oshinobi-obi&theme=github_dark&hide_border=true&custom_title=💻%20Top%20Languages&border_radius=15&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oshinobi-obi&theme=default&hide_border=true&custom_title=💻%20Top%20Languages&border_radius=15&layout=compact&title_color=2F80ED"/>
+      </picture>
+    </td>
+  </tr>
+</table>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Oshinobi-obi&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=📊%20Contribution%20Graph&radius=16"/>
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Oshinobi-obi&theme=minimal&bg_color=FFFFFF&color=2F80ED&line=2F80ED&point=000000&area=true&hide_border=true&custom_title=📊%20Contribution%20Graph&radius=16"/>
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Oshinobi-obi&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"/>
+  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Oshinobi-obi&theme=flat&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=4"/>
+</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</div>
 
-<img 
-  alt="GitHub Streak" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Oshinobi-obi&theme=graywhite&hide_border=true&border_radius=15" />
-
-<img 
-  alt="GitHub Stats" 
-  src="https://github-readme-stats.vercel.app/api?username=Oshinobi-obi&show_icons=true&theme=graywhite&rank_icon=github&hide=stars,contribs&hide_border=true&include_all_commits=true&custom_title=github/Oshinobi-obi/stats&border_radius=15&card_width=495" />
-
-<img 
-  alt="Top Languages" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=Oshinobi-obi&theme=graywhite&hide_border=true&custom_title=Oshinobi-obi[fav-lang]&border_radius=15&card_width=500" />
-
-<img 
-  alt="Contribution Graph" 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Oshinobi-obi&theme=minimal&line=5D5D5D&point=000000&custom_title=contribution+graph&radius=16&width=300" />
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oshinobi-obi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
 
 ---
