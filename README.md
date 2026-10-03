@@ -99,11 +99,11 @@
 
 ### 🐍 Contribution Snake
 
-<!-- Needs .github/workflows/snake.yml to run once before this shows up -->
+<!-- Uses github-snake.svg and github-snake-dark.svg stored in this repo, next to README.md -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oshinobi-obi/Oshinobi-obi/output/github-snake-dark.svg"/>
-    <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Oshinobi-obi/Oshinobi-obi/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oshinobi-obi/Oshinobi-obi/main/github-snake-dark.svg"/>
+    <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Oshinobi-obi/Oshinobi-obi/main/github-snake.svg"/>
   </picture>
 </p>
 
